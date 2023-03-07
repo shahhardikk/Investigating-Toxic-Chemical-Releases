@@ -5,7 +5,7 @@ install.packages("tibble")
 library("tibble")
 library(plotly)
 
-toxic <- read.csv("/Users/shashankrallapalli/Documents/Toxic_Release.csv")
+toxic <- read.csv
 
 #cleaning
 toxic <- toxic %>%
